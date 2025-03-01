@@ -13,6 +13,13 @@ curso-html-css/
 │   │   ├── Aula 01 - Precisamos fazer um acordo
 │   │   ├── Aula 03 - Melhores livros para aprender HTML5 e CSS3
 │   │   └── Aula 04 - Como a Internet chega na minha casa
+│   │   
+│   ├── capitulo-02/
+│   │   ├── imagens/
+│   │   │   └── ...
+│   │   ├── Aula 01 - Como a Internet funciona
+│   │   └── Aula 02 - O que é domínio e hospedagem
+│   │   
 │   └── ...
 └── README.md
 ```
