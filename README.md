@@ -3,6 +3,7 @@
 <h1 style="text-align: center;">Curso HTML5 e CSS3</h1>
 <p style="text-align: center;">Repositório com anotações e exercícios do Curso HTML5 e CSS3, oferecido pelo Curso em Vídeo.</p>
 <br>
+
 ## Estrutura de Pastas
 
 ```plaintext
