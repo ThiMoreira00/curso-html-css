@@ -4,7 +4,7 @@
 <p style="text-align: center;">Repositório com anotações e exercícios do Curso HTML5 e CSS3, oferecido pelo Curso em Vídeo.</p>
 <br>
 
-## Estrutura de Pastas
+## Estrutura de Anotações
 
 ```plaintext
 curso-html-css/
@@ -25,10 +25,34 @@ curso-html-css/
 │   ├── capitulo-03/
 │   │   ├── imagens/
 │   │   │   └── ...
-│   │   └── Aula 01 - A diferença entre HTML, CSS e JavaScript
+│   │   ├── Aula 01 - A diferença entre HTML, CSS e JavaScript
+│   │   └── Aula 02 - Front-end, Back-end e Full stack
+│   │  
+│   ├── capitulo-04/
+│   │   ├── imagens/
+│   │   │   └── ...
+│   │   ├── Aula 01 - Instalando todas as ferramentas
+│   │   └── Aula 02 - Seu primeiro código HTML
 │   │  
 │   └── ...
 └── README.md
+```
+
+<br>
+
+## Estrutura de Códigos
+
+```plaintext
+curso-html-css/
+├── html-css/
+│   └── exercicios/
+│       ├── ex001/ # Meu primeiro código HTML
+│       └── ...
+│   
+├── javascript/
+│   └── ...
+│   
+└── ...
 ```
 
 <br>
