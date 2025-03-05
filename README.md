@@ -34,6 +34,12 @@ curso-html-css/
 │   │   ├── Aula 01 - Instalando todas as ferramentas
 │   │   └── Aula 02 - Seu primeiro código HTML
 │   │  
+│   ├── capitulo-05/
+│   │   ├── imagens/
+│   │   │   └── ...
+│   │   ├── Aula 01 - Parágrafos e Quebras
+│   │   └── Aula 02 - Símbolos e Emoji no seu site
+│   │  
 │   └── ...
 └── README.md
 ```
@@ -47,6 +53,7 @@ curso-html-css/
 ├── html-css/
 │   └── exercicios/
 │       ├── ex001/ # Meu primeiro código HTML
+│       ├── ex002/ # Parágrafos, Quebras, Símbolos e Emoji
 │       └── ...
 │   
 ├── javascript/
