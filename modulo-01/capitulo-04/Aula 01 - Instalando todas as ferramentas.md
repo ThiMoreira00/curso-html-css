@@ -1,4 +1,5 @@
 Vídeo: https://www.youtube.com/watch?v=UForX7ehChM
+Material em PDF: https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/04%20-%20Primeiros%20passos%20HTML.pdf
 
 ---
 
