@@ -5,6 +5,7 @@
 <br>
 
 ## Estrutura de Anotações
+_Observação: As anotações foram feitas no software Obsidian, o que oferece uma visualização melhor do conteúdo._
 
 ```plaintext
 curso-html-css/
